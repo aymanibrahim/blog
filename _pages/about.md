@@ -1,11 +1,13 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
 
-# **[Freelance data analyst](https://www.linkedin.com/in/aymanibrahim/)**
+# [Ayman Ibrahim](https://www.linkedin.com/in/aymanibrahim/)
+
+## Freelance data analyst
 
 Inform business decisions, prepare, analyze, visualize, and gain key insights from data, share findings, and provide data-driven recommendations.
 
@@ -23,3 +25,4 @@ Completed the **[Google Data Analytics Professional Certificate](https://www.cou
 ### [LinkedIn](https://www.linkedin.com/in/aymanibrahim/)
 ### [GitHub](https://github.com/aymanibrahim)
 ### [Kaggle](https://www.kaggle.com/aymani)
+### [Twitter]((https://twitter.com/aymanibrahim))
