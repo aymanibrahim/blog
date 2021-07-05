@@ -25,4 +25,4 @@ Completed the **[Google Data Analytics Professional Certificate](https://www.cou
 ### [LinkedIn](https://www.linkedin.com/in/aymanibrahim/)
 ### [GitHub](https://github.com/aymanibrahim)
 ### [Kaggle](https://www.kaggle.com/aymani)
-### [Twitter]((https://twitter.com/aymanibrahim))
+### [Twitter](https://twitter.com/aymanibrahim)
